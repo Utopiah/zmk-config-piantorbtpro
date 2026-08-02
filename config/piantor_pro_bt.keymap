@@ -75,9 +75,9 @@
         &kp RIGHT     
         &trans        
         &bt           
-        &Underglow    
-        &Underglow 7  
-        &Underglow 8  
+        &trans
+        &trans
+        &trans
         &studio_unlock
         &trans        
         &trans        
@@ -111,8 +111,8 @@
         &kp LS(N8)   
         &kp LS(N9)   
         &kp LS(N0)   
-        &Underglow 4 
-        &Underglow 3 
+        &trans
+        &trans
         &kp LS(TAB)  
         &kp LS(SQT)  
         &kp SQT      
