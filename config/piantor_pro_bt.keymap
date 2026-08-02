@@ -217,8 +217,8 @@
         &kp LA(TAB)    
         &kp LS(LC(X))  
         &trans         
-        &reset         
-        &bootloader    
+        &trans
+        &trans
         &trans         
         &trans         
         &trans         
