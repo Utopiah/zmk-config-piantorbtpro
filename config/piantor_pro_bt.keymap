@@ -33,7 +33,7 @@
 
         SHORTCUTS {
             bindings = <
-  &kp LG(K)  &trans  &trans  &trans  &trans  &kp LG(H)  &kp LG(Y)  &trans  &kp LS(LC(TAB))  &kp LC(TAB)      &trans  &trans  &trans  &trans  &trans  &kp 458879  &kp C_VOL_DN  &kp C_VOL_UP  &kp C_PP  &kp LA(TAB)      &kp LS(LC(X))  &trans  &reset  &bootloader  &trans  &trans  &trans  &trans  &trans  &kp LG(ESC)    &trans  &trans  &trans  &trans  &trans  &trans
+  &kp LG(K)  &trans  &trans  &trans  &trans  &kp LG(H)  &kp LG(Y)  &trans  &kp LS(LC(TAB))  &kp LC(TAB)      &trans  &trans  &trans  &trans  &trans  &kp A  &kp C_VOL_DN  &kp C_VOL_UP  &kp C_PP  &kp LA(TAB)      &kp LS(LC(X))  &trans  &sys_reset  &bootloader  &trans  &trans  &trans  &trans  &trans  &kp LG(ESC)    &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
     };
